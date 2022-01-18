@@ -1,6 +1,6 @@
 # Random UUID Generator
 
-A simple API that will return a key-value pair of randomly generated UUID. The key is timestamp, while the value is a UUID.
+A simple API that will return a key-value pair of randomly generated UUID. The key is the timestamp while the value is a UUID.
 
 ## Getting Started
 
