@@ -23,7 +23,11 @@ These instructions will get a local copy of the project up and running for devel
 
 ### Testing
 
-Run `python manage.py test` to execute tests.
+- Run `python manage.py test` to execute tests.
+
+### Endpoints
+
+- `[POST] /uuid/generate` - generate random UUIDs.
 
 ## Contributing
 
